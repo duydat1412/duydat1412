@@ -82,4 +82,36 @@ const myJourney = {
     education: "UET-VNU",
     year: "Freshman",
     focus: ["Problem Solving", "Clean Code", "Security Research"],
-    motto: "Every expert was once a beginner
+    motto: "Every expert was once a beginner"
+};
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@uet.vnu.edu.vn)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_PROFILE)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  
+  ### 🌟 Thanks for visiting my profile!
+  
+  ⭐ Feel free to explore my repositories and star them if you find them useful!
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
