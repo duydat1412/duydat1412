@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm duydat.
+# Hi there! 👋 I'm Duy Dat
 
 <div align="center">
   
@@ -51,11 +51,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duydat1412&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duydat1412&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duydat1412&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -68,7 +69,7 @@ Educational documentation about Android's FLAG_SECURE security mechanism
 - Research on LSPosed Framework
 - Comprehensive guide for educational purposes
 
-[👉 View Project](https://github.com/YOUR_USERNAME/android-flag-secure-bypass)
+[👉 View Project](https://github.com/duydat1412/android-flag-secure-bypass)
 
 ### 💡 More Projects Coming Soon!
 Currently working on various learning projects as I progress through my studies.
@@ -82,6 +83,7 @@ const myJourney = {
     education: "UET-VNU",
     year: "Freshman",
     focus: ["Problem Solving", "Clean Code", "Security Research"],
+    learningGoal: "Build strong fundamentals and explore new technologies",
     motto: "Every expert was once a beginner"
 };
 ```
@@ -93,7 +95,7 @@ const myJourney = {
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyduydat2007@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/duydat141207)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/duydat14120)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy-duy-dat-0ba830392/)
   
 </div>
@@ -102,7 +104,7 @@ const myJourney = {
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=duydat1412&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
   
   ### 🌟 Thanks for visiting my profile!
   
