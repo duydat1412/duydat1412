@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 First-year **Computer Science** student at **University of Engineering and Technology, VNU** (UET-VNU)
+- 🎓 First-year **Information Technology** student at **University of Engineering and Technology, VNU** (UET-VNU)
 - 📍 Based in Hanoi, Vietnam
 - 🌱 Currently learning: **Python, Java, C++, and fundamental IT concepts**
 - 🔍 Interests: **Security Research, Mobile Development, Open Source**
