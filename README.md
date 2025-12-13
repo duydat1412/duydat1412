@@ -101,7 +101,7 @@ const myJourney = {
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=duydat1412&color=blueviolet&style=flat-square)
   
   ### 🌟 Thanks for visiting my profile!
   
