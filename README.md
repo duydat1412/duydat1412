@@ -48,18 +48,15 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Contribution Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duydat1412&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duydat1412&layout=compact&theme=radical&hide_border=true"/>
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duydat1412&theme=radical&hide_border=true&area=true)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duydat1412&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
+> 🚀 Just getting started! More contributions coming soon!
 
 ## 🚀 Featured Projects
 
