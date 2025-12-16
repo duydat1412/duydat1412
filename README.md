@@ -37,16 +37,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-## 📚 Academic Journey at UET-VNU
-
-- 💻 Heavy practice with Python
-- 🔐 Self-learning Security and Mobile Development
-- 🌟 Working on small projects to sharpen my skills
-- 🎯 Active member of UET's tech community
-
----
-
 ## 📊 Contribution Activity
 
 <div align="center">
@@ -56,36 +46,6 @@
 </div>
 
 > 🚀 Just getting started! More contributions coming soon!
-
-## 🚀 Featured Projects
-
-### 🔐 Android FLAG_SECURE Research Guide
-Educational documentation about Android's FLAG_SECURE security mechanism
-- Deep dive into Android security mechanisms
-- Research on LSPosed Framework
-- Comprehensive guide for educational purposes
-
-[👉 View Project](https://github.com/duydat1412/android-flag-secure-bypass)
-
-### 💡 More Projects Coming Soon!
-Currently working on various learning projects as I progress through my studies.
-
----
-
-## 📈 Learning Journey
-
-```javascript
-const myJourney = {
-    education: "UET-VNU",
-    year: "Freshman",
-    focus: ["Problem Solving", "Clean Code", "Security Research"],
-    learningGoal: "Build strong fundamentals and explore new technologies",
-    motto: "Every expert was once a beginner"
-};
-```
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
