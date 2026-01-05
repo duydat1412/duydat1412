@@ -10,17 +10,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## Information :
 
 - 🎓 First-year **Information Technology** student at **University of Engineering and Technology, VNU** (UET-VNU)
 - 📍 Based in Hanoi, Vietnam
 - 🌱 Currently learning: **Python, Java, C++, and fundamental IT concepts**
 - 🔍 Interests: **Security Research, Mobile Development, Open Source**
-- ⚡ Fun fact: i love animal<3
-
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Currently Learning & Using:
 
@@ -37,7 +35,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-## 📊 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   
@@ -45,7 +43,7 @@
 
 </div>
 
-> 🚀 Just getting started! More contributions coming soon!
+> Just getting started! More contributions coming soon!
 ## 📫 Connect With Me
 
 <div align="center">
