@@ -22,16 +22,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-## Contribution Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duydat1412&theme=radical&hide_border=true&area=true)
-
-</div>
-
-> Just getting started! More contributions coming soon!
 ## 📫 Connect With Me
 
 <div align="center">
