@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Duy Dat
+# Hi there!
 
 <div align="center">
   
-  ### 🎓 IT Freshman @ UET-VNU
+  ### IT Freshman @ UET-VNU
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Freshman+at+UET-VNU;Learning+and+Growing;Passionate+about+Technology" alt="Typing SVG" />
   
@@ -12,7 +12,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Exploring:
@@ -22,7 +21,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   
