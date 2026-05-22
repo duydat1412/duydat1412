@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:f75c7e&height=180&section=header&text=Duy%20Dat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+# Duy Dat
 
 **Learning to build useful software, one project at a time.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Learning+to+Build;Exploring+Software+Development;Always+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Exploring+Software+Development;Learning+Python+and+Java;Building+small+but+useful+projects" alt="Typing SVG" />
 
 </div>
 
@@ -12,56 +12,49 @@
 
 ## About Me
 
-- Currently learning **Python, Java, and Git**
-- Exploring **Android Development** and **Web Development**
-- Interested in software development, problem solving, and building useful projects
+Hi, I'm Duy Dat — a student developer interested in software development, problem solving, and building practical projects.
+
+I’m currently learning core programming concepts with **Python**, **Java**, and **Git**, while exploring **Android** and **Web Development**.
+
+---
+
+## Focus
+
+- Programming fundamentals
+- Software development
+- Android development
+- Web development
+- Problem solving
 
 ---
 
 ## Tech Stack
 
-### Currently Using
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Exploring
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,git,androidstudio,js,html,css&theme=dark" />
+</p>
 
 ---
 
-## GitHub Stats
+## Selected Projects
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=duydat1412&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duydat1412&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+> I’m currently building and improving my projects.  
+> More updates coming soon.
 
 ---
 
-## Connect With Me
+## Contact
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyduydat2007@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/duydat14120)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy-duy-dat-0ba830392/)
-
-</div>
+| Platform | Link |
+|---|---|
+| Email | [nguyduydat2007@gmail.com](mailto:nguyduydat2007@gmail.com) |
+| Facebook | [fb.com/duydat14120](https://fb.com/duydat14120) |
+| LinkedIn | [nguy-duy-dat](https://www.linkedin.com/in/nguy-duy-dat-0ba830392/) |
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=duydat1412&color=blueviolet&style=flat-square)
-
-Thanks for visiting my profile.
+![Profile Views](https://komarev.com/ghpvc/?username=duydat1412&color=58A6FF&style=flat-square)
 
 </div>
