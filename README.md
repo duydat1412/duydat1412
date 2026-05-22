@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### IT Freshman @ UET-VNU
+  ###UET-VNU
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Freshman+at+UET-VNU;Learning+and+Growing;Passionate+about+Technology" alt="Typing SVG" />
   
