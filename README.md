@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/duydat2411/duydat2411/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/duydat2411/duydat2411/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/duydat1412/duydat1412/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/duydat1412/duydat1412/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="./assets/cat.jpg" alt="cat image" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/duydat1412/duydat1412/main/assets/cat.jpg" alt="cat image" />
 
 ###
 
@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/duydat2411/duydat2411/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/duydat1412/duydat1412/snake-output/snake.svg" alt="Snake animation" />
 
 ###
