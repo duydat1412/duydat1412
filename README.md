@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/duydat1412/duydat1412/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/duydat1412/duydat1412/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/474380195_973370954857079_5492496090998875864_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeHzietSaDea-u-I63BVEdE1mLJX_lkzPFmYslf-WTM8WcUyN2S9_7L2xpA59fsw9D4ClC6t_G7gi9XErBKDco77&_nc_ohc=8AQYkvv_yQAQ7kNvwFIsmvc&_nc_oc=AdoJdIeY_XrNBD1bIDhQGaWyNlVA-6pmSd-pSRQcF0dzCcSibh2--YNOjIFp43OLvB0&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_gid=XikC_lExQhzKg0qfLZSYqQ&_nc_ss=7b2a8&oh=00_Af5yOxkbFf43RPk4JqIMEl0Nnhf69OVOgrP8FiQbljFHJw&oe=6A1B8163"  />
 
 ###
@@ -41,5 +48,11 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/duydat1412/duydat1412/snake-output/snake.svg" alt="Snake animation" />
 
 ###
