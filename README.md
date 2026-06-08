@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/duydat1412/duydat1412/main/assets/cat.jpg" alt="cat image" />
-
 ###
 
 <div align="left">
