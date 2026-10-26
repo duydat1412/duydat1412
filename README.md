@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/duydat1412/duydat1412/stats-output/stats.svg" height="150" alt="stats graph" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=duydat1412&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=duydat1412&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)
   <img src="https://raw.githubusercontent.com/duydat1412/duydat1412/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
