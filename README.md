@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dat, and I'm learning to build useful things.</h2>
+<h2 align="left">Hi 👋! My name is Dat.</h2>
 
 ###
 
